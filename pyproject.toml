@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_perpcfg"
+description = "Perpendicular CFG for reducing oversaturation issues with high guidance scale values."
+version = "1.0.0"
+license = { text = "GNU General Public License v3.0" }
+
+[project.urls]
+Repository = "https://github.com/bvhari/ComfyUI_PerpCFG"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "bvhari"
+DisplayName = "ComfyUI_PerpCFG"
+Icon = ""
